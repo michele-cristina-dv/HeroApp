@@ -26,33 +26,39 @@ Este repositório contém a automação de testes do projeto HeroApp, utilizando
 
 Clonar o Repositório
 
-```git clone https://github.com/michele-cristina-dv/HeroApp.git
+```
+git clone https://github.com/michele-cristina-dv/HeroApp.git
 ```
 
 Acessar a Pasta do Projeto
 
-``` cd cypress-heroes
+```
+cd cypress-heroes
 ```
 
 Instalar as Dependências
 
-```npm install
+```
+npm install
 ```
 
 Configurar o Ambiente
 
-```npm run setup
+```
+npm run setup
 ```
 
 Iniciar o Servidor de Desenvolvimento
 
-```npm run dev
+```
+npm run dev
 ```
 
 Rodar os Testes com Cypress (Interface Gráfica)
 # Em outro terminal:
 
-```npx cypress open
+```
+npx cypress open
 ```
 
 ## 🌐 Acessar o Sistema
