@@ -55,7 +55,7 @@ npm run dev
 ```
 
 Rodar os Testes com Cypress (Interface Gráfica)
-# Em outro terminal:
+## Em outro terminal:
 
 ```
 npx cypress open
