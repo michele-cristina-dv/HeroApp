@@ -1,0 +1,11 @@
+{
+  "userSucess": {
+    "email": "GabrielScoot@gmail.com",
+    "password": "testei123"
+  },
+
+  "userFail": {
+    "email": "GabrielScootError@gmail.com",
+    "password": "Error123"
+  }
+}
